@@ -5,9 +5,9 @@ Vas a desarrollar un proyecto **Java** en arquitectura por capas para gestionar 
 
 El proyecto debe permitir intercambiar fácilmente el mecanismo de persistencia, pudiendo trabajar con:  
 
-- [ ] Ficheros de texto (CSV, por ejemplo)  
+- [x] Ficheros de texto (CSV, por ejemplo)  
 - [ ] Ficheros XML  
-- [ ] Ficheros Binarios  
+- [x] Ficheros Binarios  
 - [ ] Base de datos MySQL vía JDBC (en la siguiente unidad)  
 
 ## 2. Objetivo principal
